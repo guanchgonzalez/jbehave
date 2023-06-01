@@ -12,7 +12,7 @@ Implement a test case to search for a keyword on Google home page using jBehave 
 7. Implement a test case to open google home page and search for keyword "JBehave".
 8. If the results include string "What is JBehave?" , test case succeeded. And failed otherwise.
 
-<em><u>Note:</u></em> You can configure chrome driver in order to open google page. You might also need more libraries to be configured.
+**_Note:_** You can configure chrome driver in order to open google page. You might also need more libraries to be configured.
 
-<em><u>Expected Output:</u></em> Documentation of the exercise and link to github or project zip file.
+**_Expected Output:_** Documentation of the exercise and link to github or project zip file.
 
